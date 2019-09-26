@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * Created by Administrator on 2019/9/19.
+ * Created by Administrator on 2019/9/19.01
  */
 @FeignClient(value = "springCloudProducer")
 public interface FeignCloudService {
