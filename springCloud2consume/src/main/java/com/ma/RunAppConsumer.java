@@ -9,7 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class RunAppConsumer {
 	/**
 	 *
-	 * @param args01
+	 * @param args0123
 	 */
 	
 	public static void main(String[] args) {
